@@ -14,3 +14,6 @@ About the dataset:
 
                                 1 --> Fake News
                                 2 --> Real News
+                               
+                               
+Link for the dataset --> https://www.kaggle.com/c/fake-news/data
